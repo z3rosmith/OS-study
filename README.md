@@ -15,7 +15,7 @@
 
 ## 스터디원
 - https://github.com/z3rosmith
-- https://github.com/kazamajinz
+- https://github.com/paneiOS
 
 ---
 
@@ -48,7 +48,7 @@ Chapter 3
 
 Chapter 4
 - 8 Process Management 1 - 11분
-- 9 Process Management 1 - 1시간 7분
+- 9 Process Management 2 - 1시간 7분
 
 
 Chapter 5
